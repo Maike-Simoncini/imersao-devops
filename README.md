@@ -10,7 +10,7 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
 
 ## Passos para subir o projeto
 
-1. **Faça o download do repositório:**
+1. **Faça o download do repositório**
 
 2. **Crie um ambiente virtual:**
    ```sh
